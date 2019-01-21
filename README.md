@@ -9,6 +9,7 @@
   * It allows us to use _method in the HTML form.
 
 3. Explain the difference between value and name in this line: <input type='text' name='task[title]' value="<%= @task.title %>"/>.
+  * 
 
 4. What are params? Where do they come from?
   * Params are values that we get from our HTML form. They come from our HTML form when it is submitted.
